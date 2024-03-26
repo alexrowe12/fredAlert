@@ -1,3 +1,6 @@
+# Ignore bearerToken.txt file
+bearerToken.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
